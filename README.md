@@ -13,6 +13,8 @@ Explicalção:
 
 * Dê um número n, para cada inteiro i no intervalo de 1 a n inclusive, imprima um valor por linha como segue a seguir:
 
+-------------------------------------------------------------------------------------------------------------------------
+
 -- Se i for um multiplo de 3 (mas não de 5), imprima "fizz"
 
 -- Se i for um multiplo de 5 (mas não de 3), imprima a palavra "Buzz"
@@ -21,11 +23,15 @@ Explicalção:
 
 -- Se i não for multiplo de 3 e 5, imprima os valores de i
 
-Links de referência:
+------------------------------------------------------------------------------------------------------------------------
+
+-- Links de referência:
 
 -- https://www.youtube.com/watch?v=wI8-3p1B60w
 
 -- https://www.youtube.com/watch?v=iHjsUxNA-wo
+
+--------------------------------------------------------------------------------------------------------------------------
 
 Outras referências:
 
